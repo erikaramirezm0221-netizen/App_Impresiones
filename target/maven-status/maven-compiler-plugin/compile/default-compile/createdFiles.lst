@@ -1,0 +1,11 @@
+com\mycompany\app_impreciones\modelo\Mug.class
+com\mycompany\app_impreciones\modelo\Producto.class
+com\mycompany\app_impreciones\util\ConexionBD.class
+com\mycompany\app_impreciones\CatalogoServlet.class
+com\mycompany\app_impreciones\dao\ProductoDAO.class
+com\mycompany\app_impreciones\modelo\Carrito.class
+com\mycompany\app_impreciones\modelo\Gorra.class
+com\mycompany\app_impreciones\controlador\LoginServlet.class
+com\mycompany\app_impreciones\controlador\CarritoServlet.class
+com\mycompany\app_impreciones\modelo\Usuario.class
+com\mycompany\app_impreciones\dao\UsuarioDAO.class
