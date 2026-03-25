@@ -59,6 +59,9 @@ src/main/java/com/mycompany/app_impreciones/
 ### Carrito de Compras
 ![Carrito](Imagenes/carrito.png)
 
+## Diagrama Entidad-Relación
+![Diagrama ER](Imagenes/er_appImpresiones.png)
+
 ## Cómo ejecutar el proyecto
 1. Clona el repositorio
 2. Abre el proyecto en NetBeans 20
